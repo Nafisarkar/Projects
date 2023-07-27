@@ -1,0 +1,6 @@
+# ninja log v5
+1	93	7111912302640143	build.ninja	65dcb7716c74f0c0
+0	529	7111912196567086	CMakeFiles/HelloWord.dir/main.cpp.obj	3aa2ea13cbc6ce47
+531	757	7111912198816007	HelloWord.exe	80a4efa892d8b045
+2	275	7111912404104867	CMakeFiles/HelloWord.dir/main.cpp.obj	3aa2ea13cbc6ce47
+276	344	7111912404775478	HelloWord.exe	80a4efa892d8b045
