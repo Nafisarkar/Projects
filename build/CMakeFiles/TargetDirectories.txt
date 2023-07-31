@@ -1,0 +1,3 @@
+D:/Projects/build/CMakeFiles/HelloWord.dir
+D:/Projects/build/CMakeFiles/ALL_BUILD.dir
+D:/Projects/build/CMakeFiles/ZERO_CHECK.dir
