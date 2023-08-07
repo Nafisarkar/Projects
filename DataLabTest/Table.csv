@@ -1,0 +1,11 @@
+Customer ID ,Age,Gender,Product Category,Purchase Amount,Payment Method,Feedback,Loyalty Points,Membership Level
+101,35,Male   ,Electronics      ,500,CreditCard     ,Greatservice!         ,100,Gold
+102,28,Female ,Clothing         ,600,Cash           ,NaN,50,NaN
+103,NaN,Female ,Food             ,300,Online Payment ,Not satisfied         ,NaN,Bronze
+104,42,Male   ,Beauty           ,NaN,NaN,Product arrived late  ,80,NaN
+105,31,Other  ,Electronics      ,800,Cash           ,NaN,NaN,Bronze
+106,45,Male   ,NaN,450,NaN,Excellent experience  ,150,Gold
+107,38,Female ,Clothing         ,NaN,Credit Card    ,NaN,70,NaN
+108,29,NaN,Beauty           ,350,Online Payment ,Poor customer service ,90,Bronze
+109,NaN,Male,Food             ,600,NaN,NaN,120,Gold
+110,27,Female,NaN,550,Cash           ,NaN,110,Gold
