@@ -4,8 +4,6 @@
 int main(){
 	char string[1000];
 	scanf("%[^\n]c", string);
-
-
 	bool startFound = false;
 	bool endFound = false;
 	int startIndex,endIndex;

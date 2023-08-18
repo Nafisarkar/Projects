@@ -4,7 +4,7 @@ start = False
 end = False
 single = False
 
-for x in range(len(string)):
+for x in range(len(string) - 1):
     if string[x] == "/" and string[x + 1] == "/":
         single = True
     if string[x] == "/" and string[x + 1] == "*":
